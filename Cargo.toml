@@ -1,0 +1,8 @@
+[package]
+name = "closet"
+version = "0.1.0"
+authors = ["Alex Burka <aburka@seas.upenn.edu>"]
+description = "CLOSure-Enhancing Macros (CLOSET) provides some questionable-useful macro utilities for closures, including clone_army!, which reduces boilerplate for clone-capturing closures, and vindaloo!, which does automatic currying."
+license = "MIT"
+repository = "https://github.com/durka/closet"
+
