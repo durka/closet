@@ -1,6 +1,6 @@
 [package]
 name = "closet"
-version = "0.2.1"
+version = "0.2.2"
 authors = ["Alex Burka <aburka@seas.upenn.edu>"]
 description = "CLOSure-Enhancing Toolbox (CLOSET) provides some questionably-useful macro utilities for closures, including clone_army!, which reduces boilerplate for clone-capturing closures, and vindaloo!, which does automatic currying."
 categories = ["rust-patterns"]
